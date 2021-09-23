@@ -6,6 +6,9 @@
 - NodeJS
 - NPM
 
+## Licença
+Distribuido sob a licença MIT License. Veja `LICENSE` para mais informações.
+
 ## Como criei o projeto?
 Criar o projeto:
 >ng new dashboard
